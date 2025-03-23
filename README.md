@@ -3,11 +3,6 @@
 Overview:
 The Legal Document Analyzer is a powerful tool designed to help users process, analyze, and extract meaningful insights from legal documents. This Jupyter Notebook leverages Natural Language Processing (NLP) techniques to identify key entities, summarize content, and extract relevant legal information.
 
-### Usage
-
-Launch Jupyter Notebook:
-jupyter notebook Legal_Document_Analyzer.ipynb
-
 ## Follow the Notebook Instructions:
 
 1.Upload a legal document when prompted.
