@@ -5,10 +5,15 @@ The Legal Document Analyzer is a powerful tool designed to help users process, a
 
 Features:
 * Automated Text Extraction: Upload and process legal documents for structured analysis.
+  
 *Natural Language Processing (NLP): Extract named entities, key terms, and important clauses.
+
 *Summarization: Generate concise summaries of legal texts for quick reference.
+
 *Sentiment Analysis: Evaluate the tone and stance of legal language.
+
 *Keyword Extraction: Identify critical legal phrases and terminologies.
+
 *Data Visualization: Present insights through charts, word clouds, and structured tables.
 
 ### Usage
