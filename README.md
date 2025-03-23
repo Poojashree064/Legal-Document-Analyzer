@@ -27,3 +27,6 @@ jupyter notebook Legal_Document_Analyzer.ipynb
 1.Upload a legal document when prompted.
 2.Run each cell sequentially to process the document.
 3.Explore extracted insights, summaries, and visualizations.
+
+
+
