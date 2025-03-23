@@ -8,7 +8,7 @@ The Legal Document Analyzer is a powerful tool designed to help users process, a
 Launch Jupyter Notebook:
 jupyter notebook Legal_Document_Analyzer.ipynb
 
-### Follow the Notebook Instructions:
+## Follow the Notebook Instructions:
 
 1.Upload a legal document when prompted.
 2.Run each cell sequentially to process the document.
